@@ -1,0 +1,29 @@
+﻿
+Project Summary:
+
+1.)We have to develop a machine learning project which is able to predict the average life exceptancy of a person based on some various features of a country he live in.
+2.)The prediction should be based on various factors like,Physical Illnesses, Education,
+demographic factors and many more.
+
+Project Requirements :
+1.)The whole dataset of a countries in the world.
+2.)The datasets of the death reports of  specific country,it should states the reasons how the person is died.
+3.All the informations,datasets through which death is affected.
+
+
+Functional Requirements
+1.)User Interactions.
+
+Technical Requirements
+1.)Python Knowledge with some knowledge of library.2.)Some Maths and Statistics knowledge.
+
+Software Requirements
+1.)A system with 4GB RAM.
+
+Project Team:
+1.)Sandeep Savarkar
+
+
+ 
+
+
